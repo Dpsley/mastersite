@@ -1,2 +1,2 @@
 # mastersite
-private projec
+private project
